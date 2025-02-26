@@ -22,12 +22,12 @@
     "dependencies": {
         "algorithmia": "^0.3.10",
         "express": "^4.16.4",
-        "gm": "^1.23.1",
         "googleapis": "^38.0.0",
         "image-downloader": "^3.4.2",
         "readline-sync": "^1.4.9",
         "sbd": "^1.0.14",
-        "watson-developer-cloud": "^3.18.2"
+        "@azure/cognitiveservices-textanalytics": "^5.1.0",
+        "fluent-ffmpeg": "^2.1.2"
     },
     "devDependencies": {
         "pkg": "^4.3.7"
